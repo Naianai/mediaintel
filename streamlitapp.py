@@ -54,11 +54,6 @@
         .modal-content {
             background-color: #fefefe;
             margin: auto;
-            
-            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-            width: 80%; /* Could be adjusted */
-            max-width: 500px;
-            text-align: center;
         }
         .modal-close {
             color: #aaa;
